@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AssignmentReact/static/css/main.e5de8b84.css",
-    "main.js": "/AssignmentReact/static/js/main.e75a04ca.js",
-    "static/js/787.4b846e2a.chunk.js": "/AssignmentReact/static/js/787.4b846e2a.chunk.js",
-    "index.html": "/AssignmentReact/index.html",
-    "main.e5de8b84.css.map": "/AssignmentReact/static/css/main.e5de8b84.css.map",
-    "main.e75a04ca.js.map": "/AssignmentReact/static/js/main.e75a04ca.js.map",
-    "787.4b846e2a.chunk.js.map": "/AssignmentReact/static/js/787.4b846e2a.chunk.js.map"
+    "main.css": "/react-grid-design/static/css/main.e5de8b84.css",
+    "main.js": "/react-grid-design/static/js/main.848d675f.js",
+    "static/js/787.4b846e2a.chunk.js": "/react-grid-design/static/js/787.4b846e2a.chunk.js",
+    "index.html": "/react-grid-design/index.html",
+    "main.e5de8b84.css.map": "/react-grid-design/static/css/main.e5de8b84.css.map",
+    "main.848d675f.js.map": "/react-grid-design/static/js/main.848d675f.js.map",
+    "787.4b846e2a.chunk.js.map": "/react-grid-design/static/js/787.4b846e2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5de8b84.css",
-    "static/js/main.e75a04ca.js"
+    "static/js/main.848d675f.js"
   ]
 }
