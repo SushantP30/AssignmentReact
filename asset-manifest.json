@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-Grid-Design/static/css/main.e5de8b84.css",
+    "main.js": "/react-Grid-Design/static/js/main.8144c426.js",
+    "static/js/787.4b846e2a.chunk.js": "/react-Grid-Design/static/js/787.4b846e2a.chunk.js",
+    "index.html": "/react-Grid-Design/index.html",
+    "main.e5de8b84.css.map": "/react-Grid-Design/static/css/main.e5de8b84.css.map",
+    "main.8144c426.js.map": "/react-Grid-Design/static/js/main.8144c426.js.map",
+    "787.4b846e2a.chunk.js.map": "/react-Grid-Design/static/js/787.4b846e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5de8b84.css",
+    "static/js/main.8144c426.js"
+  ]
+}
